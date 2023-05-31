@@ -1,7 +1,6 @@
-pandas
-statsmodels
+ipykernel
+pmdarima
+seaborn
 sklearn
-keras
+sklearn-som
 tensorflow
-numpy
-matplotlib
